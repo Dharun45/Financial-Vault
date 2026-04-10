@@ -1,5 +1,5 @@
 # Financial-Vault
-FinVault is an all in  one personal finance manager built using React.js. It tracks expenses, manages budgets, monitors EMI obligations, and handles friend debts. Features a live Financial Health Score (0–100), smart budget alerts, visual analytics, and a fully responsive UI for mobile and desktop.
+A personal finance app to track daily expenses, monitor EMI schedules, and manage friend debts with all recordsauto-saved to the database, ensuring accurate balances and organized module wise financial control.Users can log transactions, view EMI breakdowns, record money lent or borrowed, and get a consolidated view oftheir finances across all modules
 
 # Getting Started with Create React App
 
